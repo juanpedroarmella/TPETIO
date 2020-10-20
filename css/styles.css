@@ -29,3 +29,25 @@ article.container{
 p{
     color: brown;
 }
+
+
+/* Florencia Gonzalez */
+
+.img2 {
+    width: 50%;
+}
+.img3 {
+    width: 30%;
+}
+.img4 {
+    width: 30%;
+    height: 40%;
+}
+.img5 {
+    width: 30%;
+}
+.centrar{
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;    
+    text-align: center;
+}
