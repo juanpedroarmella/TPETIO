@@ -27,7 +27,7 @@ article.container{
 }
 
 p{
-    color: brown;
+    color: black;
 }
 
 
@@ -47,21 +47,13 @@ p{
     width: 30%;
 }
 .centrar{
+    padding-top:1%;
     border: 1px solid rgba(0,0,0,.125);
     border-radius: .25rem;    
     text-align: center;
 }
-/*Matias Gomez*/
-.Hogwarts {
-    background-color: rgb(3,3,3);
-}
-.Magos {
-    display: flex;
-    justify-content: center;
-}
-.Hechizos {
-    color: gold;
-}
-.Varitas {
-    color: whitesmoke;
+
+iframe{
+    width: 80%;
+    padding-right: 20% ;
 }
